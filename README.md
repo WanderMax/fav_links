@@ -16,3 +16,7 @@ https://helpx.adobe.com/photoshop/using/whats-new-cc-2016.html
 
 CC2015 新特性
 https://helpx.adobe.com/photoshop/using/whats-new-cc-2015.html
+
+https://helpx.adobe.com/acrobat/kb/acrobat-10-11-downloads.html
+
+
