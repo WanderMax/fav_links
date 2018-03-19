@@ -1,5 +1,11 @@
 # 收藏有用网址
 
+最新版日志
+https://helpx.adobe.com/photoshop/using/whats-new.html
+
+Camera Raw 更新日志
+https://helpx.adobe.com/camera-raw/using/whats-new.html
+
 旧版本下载地址
 https://helpx.adobe.com/photoshop/kb/legacy-version-updates.html
 
