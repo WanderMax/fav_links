@@ -1,4 +1,6 @@
 # 收藏有用网址
+组件下载
+https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html
 
 最新版日志
 https://helpx.adobe.com/photoshop/using/whats-new.html
